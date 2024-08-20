@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //167. Two Sum II - Input Array Is Sorted
 class Solution {
 public:
@@ -38,7 +37,7 @@ public:
         }
     }
     return start;
-=======
+    }
 //168. Excel Sheet Column Title
 class Solution {
 public:
@@ -72,6 +71,6 @@ public:
             }
         }
         return res;
->>>>>>> origin/master
+
     }
 };

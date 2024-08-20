@@ -12,7 +12,7 @@ public:
     }
 };
 
-//191. Number of 1 Bits
+//191. Number of 1 Bits to do
 class Solution {
 public:
     int hammingWeight(int n) {
