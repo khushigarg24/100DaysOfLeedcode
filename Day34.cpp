@@ -13,6 +13,7 @@ public:
 };
 
 //173. Binary Search Tree Iterator
+<<<<<<< HEAD
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -28,6 +29,9 @@ public:
  * }
  * }
  */
+=======
+
+>>>>>>> origin/master
 class BSTIterator {
     Stack<TreeNode> stack;
 
@@ -58,6 +62,7 @@ class BSTIterator {
         return !stack.isEmpty();
     }
 }
+<<<<<<< HEAD
 
 /**
  * Your BSTIterator object will be instantiated and called as such:
@@ -65,3 +70,5 @@ class BSTIterator {
  * int param_1 = obj.next();
  * boolean param_2 = obj.hasNext();
  */
+=======
+>>>>>>> origin/master

@@ -65,6 +65,10 @@ public:
     connect(root->left);
     connect(root->right);
 
+<<<<<<< HEAD
     return root;   
+=======
+    return root;   
+>>>>>>> origin/master
   }
 };
