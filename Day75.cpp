@@ -50,6 +50,7 @@ class Solution {
         else{
             if(open<=0){
                 close++;
+                // closing loop
             }
             else{
                 open--;
